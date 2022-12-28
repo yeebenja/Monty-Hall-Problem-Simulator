@@ -1,0 +1,10 @@
+Notes for Monty Hall Project
+
+- I should add an option to either:
+ 1. Switch choices (Already did this)
+ 2. Or Keep choice
+	- I should use try and catch here (exceptions)
+
+Update: I'll do this later if I setup the program where
+it asks the user to specify number of trials to run
+
