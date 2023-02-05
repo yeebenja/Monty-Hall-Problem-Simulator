@@ -1,7 +1,8 @@
 // Automated Monty Hall Simulator
 // By: Benjamin Yee
 // Email: yeebenja@umich.edu
-// LinkedIn: https://www.linkedin.com/in/yeebenja
+// LinkedIn: https://www.linkedin.com/in/bay02
+// GitHub: https://github.com/yeebenja
 
 #include <iostream>
 #include <random>
