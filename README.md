@@ -6,3 +6,5 @@ Simulates the Monty Hall Problem. The program uses the std::map data structure t
 2. The game show participant commits with their initial choice
 
 The percentage of times the participant wins a car in both cases is then recorded and reported to the user.
+
+Aside: I just wanted to confirm myself that the Monty Hall Problem is legit! 😆
